@@ -1,4 +1,3 @@
-Adding pipeline
 Addressbook Tutorial
 ====================
 
