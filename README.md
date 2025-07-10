@@ -1,4 +1,3 @@
-running pipeline
 Addressbook Tutorial
 ====================
 
